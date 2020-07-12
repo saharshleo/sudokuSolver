@@ -68,10 +68,10 @@ Scale and centre each digit, so that it becomes apt for prediction using neural 
 |Missing Digits|Solution|
 
 ### Tech Stack
-This section should list the technologies you used for this project. Leave any add-ons/plugins for the prerequisite section. Here are a few examples.
+
 * [OpenCV](https://opencv.org/)
 * [Tensorflow-Keras](https://www.tensorflow.org/guide/keras/sequential_model)  
-* [Backtracking](https://www.geeksforgeeks.org/backtracking-algorithms/)
+
 
 ### File Structure
     .
