@@ -140,7 +140,7 @@ python run.py --show True
 
 <!-- TROUBLESHOOTING -->
 ## Troubleshooting
-* Changing parameters like `--process opening`, `--resize (416, 416)`, `--margin 11` can prove to be effective for some images and models  
+* Changing parameters like `--process`, `--resize`, `--margin` can prove to be effective for some images and models  
 > Dilation for `test_imgs/sudoku5.jpg`
 
 |![corners-dilation](https://github.com/saharshleo/sudokuSolver/blob/master/assets/corners_dilation_sudoku5.png)|![grid-dilation](https://github.com/saharshleo/sudokuSolver/blob/master/assets/grid_img_dilation_sudoku5.png)|
